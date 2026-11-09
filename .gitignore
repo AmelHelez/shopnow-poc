@@ -1,0 +1,8 @@
+**/bin/
+**/obj/
+**/node_modules/
+frontend/dist/
+backend/ShopNow.Api/wwwroot/*
+!backend/ShopNow.Api/wwwroot/.gitkeep
+.env
+.DS_Store
