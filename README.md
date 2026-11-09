@@ -101,4 +101,4 @@ Azure F1 has shared compute and daily CPU quotas, no always-on and no availabili
 
 ## Interview explanation
 
-This demo isolates the two business layers: a simulated conversational interface and a ShopNow Integration API. In production, Infobip Automation Studio — Chatbots would handle WhatsApp/Viber conversations; the securely authenticated ShopNow Integration API would read the OMS. Messages API would handle outbound notifications. The demo validates the customer flow, API shape, success response and failure behavior without overstating Infobip connectivity.
+This demo isolates the two business layers: a simulated conversational interface and a ShopNow Integration API. In production, Infobip Automation Studio - Chatbots would handle WhatsApp/Viber conversations; the securely authenticated ShopNow Integration API would read the OMS. Messages API would handle outbound notifications. The demo validates the customer flow, API shape, success response and failure behavior without overstating Infobip connectivity.
